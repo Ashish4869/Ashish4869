@@ -1,7 +1,7 @@
 ### Hello there!
 
 
-Im a aspiring Unity Game Developer from India. I loved playing games since I was kid , so I thought it would be great to have a career in game development. Im currently pursuing my Bachelor's in Computer Science and Engineering.
+Im an aspiring Unity Game Developer from India. I loved playing games since I was kid , so I thought it would be great to have a career in game development. Im currently pursuing my Bachelor's in Computer Science and Engineering.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish4869&theme=radical)
