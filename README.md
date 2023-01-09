@@ -1,7 +1,7 @@
 ### Hello there!
 
 
-Im an aspiring Unity Game Developer from India. I loved playing games since I was kid , so I thought it would be great to have a career in game development. Im currently pursuing my Bachelor's in Computer Science and Engineering.
+An passionate programmer who likes to solve problems.
 
 You can get in touch with me using the following links.
 
@@ -9,9 +9,6 @@ You can get in touch with me using the following links.
 
 [![Gmail](https://img.shields.io/badge/Gmail-ashishkishore0812@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=ff0000&labelColor=ffffff&color=000000)](mailto:ashishkishore0812@gmail.com)
 
-You can visit the link below to play all the games I have built so far.
-
-[![Itch](https://img.shields.io/badge/Itch.io-AKK3211-informational?style=for-the-badge&logo=itchdotio&logoColor=ff0000&labelColor=000000&color=000000)](https://akk-3211.itch.io/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish4869&theme=radical)
 
